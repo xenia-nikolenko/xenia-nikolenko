@@ -4,11 +4,11 @@ As a Quality Assurance Tester, I have been involved in several projects that req
 
 ### My values
 
--Accuracy and Attention to Detail
--Logical Thinking
--Communication and Collaboration
--Adaptability and Flexibility
--Responsibility
+- Accuracy and Attention to Detail
+- Logical Thinking
+- Communication and Collaboration
+- Adaptability and Flexibility
+- Responsibility
 
 
 ### How I work
