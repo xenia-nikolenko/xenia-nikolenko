@@ -1,25 +1,14 @@
-## Xenia Nikolenko
+👋 Hi, I'm Ksenia Nikolenko, a passionate Quality Assurance Analyst with expertise in manual and automation testing. I thrive in Agile environments, and I'm proficient in various tools like Jira, Zephyr, and Postman. My skills extend to CRM administration and content management systems like WordPress, GetCourse, and Moodle.
 
-As a Quality Assurance Tester, I have been involved in several projects that required manual testing, regression testing, and API testing using tools such as Jira, Zephyr, Confluence, Postman, and Java Automation. I have also gained a high-level understanding of web API, REST, and relational databases, and I can write SQL queries to prepare and verify test data.
+**Key Skills**
+- Manual and Automation Testing
+- Test Planning and Execution
+- Defect Tracking and Management
+- CRM Administration
+- SQL Query Writing
+- Agile and SCRUM
 
-### My values
-
-- Accuracy and Attention to Detail
-- Logical Thinking
-- Communication and Collaboration
-- Adaptability and Flexibility
-- Responsibility
-
-
-### How I work
-
-
-### My skills 
-
-- Agile Methodologies
-- Test Cases
-- Test Planning
-- Regression Testing
+**Technologies**  
 - Java
 - Selenium
 - SQL
@@ -29,7 +18,31 @@ As a Quality Assurance Tester, I have been involved in several projects that req
 - Confluence
 - Word, Exel, PowerPoint
 
+**Professional Experience**
 
-## My projects 
+🖥️ **Quality Assurance Analyst | NIX Solutions, Budapest, Hungary**  
+📅 Jul 2020 – Jan 2023
 
-### Contact List
+- Managed sanity and regression testing, ensuring seamless portal updates.
+- Conducted manual testing and Postman API testing for client gadgets.
+- Transitioned test cases to automation using JAVA, Groovy, UnitTest, and Selenium.
+
+💻 **Desktop Application QA Tester**  
+📅 Sep 2020 – Jan 2023
+
+- Wrote comprehensive test cases in Zephyr, covering client requirements.
+- Collaborated with SCRUM teams, keeping test cases aligned with product changes.
+- Identified and documented over 300 defects, facilitating a smooth project completion.
+
+💼 **IT Support Specialist | YULIIA LANSKE AGENCY, Remote, Austria**  
+📅 Feb 2016 – Jul 2021
+
+- Managed technical tasks, contributing to a monthly profit of +$100,000.
+- Oversaw a technical team and handled SQL queries for CRM WordPress.
+- Automated business processes in CRM Getcourse, generating significant revenue.
+
+**Education**
+
+🎓 **Bachelor’s Degree, Computer Science**  
+Donbas State Engineering Academy, Ukraine
+
