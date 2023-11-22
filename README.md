@@ -1,4 +1,4 @@
-👋 Hi, I'm Ksenia Nikolenko, a passionate Quality Assurance Analyst with expertise in manual and automation testing. I thrive in Agile environments, and I'm proficient in various tools like Jira, Zephyr, and Postman. My skills extend to CRM administration and content management systems like WordPress, GetCourse, and Moodle.
+👋 Hi, I'm Ksenia Nykolenko, a passionate Quality Assurance Analyst with expertise in manual and automation testing. I thrive in Agile environments, and I'm proficient in various tools like Jira, Zephyr, and Postman. My skills extend to CRM administration and content management systems like WordPress, GetCourse, and Moodle.
 
 **Key Skills**
 - Manual and Automation Testing
